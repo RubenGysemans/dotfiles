@@ -36,18 +36,6 @@ true
 true
 #
 
-https://www.youtube.com/
-https://www.youtube.com/sw.js
-true
-{7dafec6d-c31a-4cbc-893e-e84504acbecc}
-0
-1708376643547514
-1708376643551187
-1708376643253163
-1
-true
-#
-
 https://rhpin.steambeard.top/
 https://rhpin.steambeard.top/sw-8ffe18a10b5f47892e8a69d8f12bb6eb.js
 false
