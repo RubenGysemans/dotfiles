@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/fido-device-onboard-rs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fido-device-onboard-rs – owner-onboarding-server/…/main.rs" opened="true" projectWorkspaceId="2c5SxIHO9WlVoZuu89XcJxbzby3">
+              <option name="activationTimestamp" value="1707407509894" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-233.13135.127" />
+              <option name="buildTimestamp" value="1706007000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="260" y="56" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1707400191486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Code/fido-device-onboard-rs" />
+  </component>
+</application>

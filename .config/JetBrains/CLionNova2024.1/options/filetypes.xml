@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="asfsgsg" type="AUTO_DETECTED" />
+      <mapping pattern="PurchaseTicketsTest" type="AUTO_DETECTED" />
+      <mapping pattern="index" type="AUTO_DETECTED" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping pattern="AppHeader" type="Vue.js" />
+      <mapping pattern="SeedJobsAndShifts" type="PHP" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="aeInstalledPlugins">
+    <option name="myPlugins">
+      <map>
+        <entry key="IdeaVIM" value="1707302112283" />
+        <entry key="Key Promoter X" value="1707302113482" />
+        <entry key="com.chrisrm.idea.MaterialThemeUI" value="1707302126431" />
+        <entry key="com.github.copilot" value="1707302139614" />
+        <entry key="com.mallowigi" value="1707302147486" />
+      </map>
+    </option>
+  </component>
+</application>

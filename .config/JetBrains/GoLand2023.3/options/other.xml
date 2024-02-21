@@ -1,0 +1,93 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Cantarell" />
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "EXPORTABILITY_SORTER.file.structure.state": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LayoutCode.codeCleanup": "true",
+    "LayoutCode.optimizeImports": "true",
+    "MarketplacePluginsSearchHistory": "material icon\nmaterial\ngithub\ng",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.go.code.vision.default.position.was.set": "true",
+    "RunOnceActivity.go.enabled.exportability.sorter": "true",
+    "RunOnceActivity.go.init.cfg.2": "true",
+    "RunOnceActivity.go.init.cfg.line.markers": "true",
+    "RunOnceActivity.go.optimizeImportsByDefault": "true",
+    "RunOnceActivity.go.suggest.all.rc.was.enabled.once": "true",
+    "RunOnceActivity.go.tips.were.enabled.once": "true",
+    "RunOnceActivity.terminal.shell.command.handling.was.disabled.once": "true",
+    "ai.assistant.toolwindow.shown.at.start": "true",
+    "bundled.plugins.list.saved.version": "GO-233.14015.113",
+    "evlsprt3.233": "4",
+    "experimental.ui.first.promotion.localdate": "2024-02-07",
+    "experimental.ui.on.first.startup": "false",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "18.0",
+    "fontSizeToResetEditor": "18.0",
+    "go.developer.survey.date.selected": "1707302173463",
+    "go.first.run.time": "1707302168405",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.copilot.inlayPartialGotIt": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "GO-233.14015.113",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1708098310778",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/ruben/Code/mobiqam-config-generator",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "mt.autoReset": "true",
+    "mt.showStatisticsAgreement": "true",
+    "org.jetbrains.plugins.go.LAST_UPDATE": "1708087282592",
+    "org.jetbrains.plugins.go.LAST_VERSION": "233.14015.113",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "GO-233.14015.113",
+    "tab_selection_count": "5",
+    "ts.lib.d.ts.version": "5.2.2"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/ruben/Code/mos-ipc",
+      "/home/ruben/Code/camera-proxy",
+      "/home/ruben/Code/mobiqam-config-generator"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.goide.execution.testing.frameworks.gofuzz.corpus.GoFuzzCorpusFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SpeedSearch": 1707740774276,
+    "SearchEverywhere": 1707826124715,
+    "GoToDeclaration": 1707904272247,
+    "ShowUsages": 1707999620132,
+    "FindInPath": 1708077410841
+  },
+  "proposedTips": {
+    "SpeedSearch": 1707740774243,
+    "SearchEverywhere": 1707826124650,
+    "GoToDeclaration": 1707904272161,
+    "ShowUsages": 1707999620006,
+    "FindInPath": 1708077410793
+  },
+  "tipsOrderSeed": 1707740774228
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="camera-proxy-history" project-path="/home/ruben/Code/camera-proxy" last-access-time="1707826106444" />
+      <command-history-file filename="mos-ipc-history" project-path="/home/ruben/Code/mos-ipc" last-access-time="1708085114358" />
+      <command-history-file filename="mobiqam-config-generator-history" project-path="/home/ruben/Code/mobiqam-config-generator" last-access-time="1707740508625" />
+      <command-history-file filename="awesomeProject-history" project-path="/home/ruben/GolandProjects/awesomeProject" last-access-time="1708077406455" />
+    </command-history-files>
+  </component>
+</application>

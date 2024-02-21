@@ -1,0 +1,74 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/mobiqam-config-generator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mobiqam-config-generator – templates.go" projectWorkspaceId="2c2GGziHJCQY7ThFjV9wdKH6C3r">
+              <option name="activationTimestamp" value="1707740581520" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14015.113" />
+              <option name="buildTimestamp" value="1706254500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1707302168336" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/camera-proxy">
+          <value>
+            <RecentProjectMetaInfo frameTitle="camera-proxy – main.go" projectWorkspaceId="2cGatCFcEijWrw7u2Lnh8yim9H7">
+              <option name="activationTimestamp" value="1707826118868" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14015.113" />
+              <option name="buildTimestamp" value="1706254500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1707740581813" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GolandProjects/awesomeProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="awesomeProject – main.go" projectWorkspaceId="2cMdUVQcShae7qc1hoE5wT9bwVt">
+              <option name="activationTimestamp" value="1708085114195" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14015.113" />
+              <option name="buildTimestamp" value="1706254500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1708003456595" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/mos-ipc">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mos-ipc – recordings.go" opened="true" projectWorkspaceId="2cJOGX4jZL369H99fncq8uPrWqG">
+              <option name="activationTimestamp" value="1708102687077" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14015.113" />
+              <option name="buildTimestamp" value="1706254500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="0" y="0" width="1920" height="2115" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1708085114467" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Code/mos-ipc" />
+    <option name="lastProjectLocation" value="$USER_HOME$/GolandProjects" />
+  </component>
+</application>

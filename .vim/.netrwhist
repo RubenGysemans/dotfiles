@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/ruben/Downloads/data/wireguard/data/wgcg'
+let g:netrw_dirhist_8='/home/ruben/Downloads/data/wireguard/data'
+let g:netrw_dirhist_7='/home/ruben/Downloads/data/wireguard/data/wgcg'
+let g:netrw_dirhist_6='/home/ruben/Downloads/data/wireguard/data'
+let g:netrw_dirhist_5='/home/ruben/Downloads/data/wireguard'
+let g:netrw_dirhist_4='/home/ruben/Downloads/data'
+let g:netrw_dirhist_3='/home/ruben/Downloads/data/apache2'
+let g:netrw_dirhist_2='/home/ruben/Downloads/data'
+let g:netrw_dirhist_1='/home/ruben/Downloads/data/appliance'
+let g:netrw_dirhist_0='/home/ruben/Downloads/data'
