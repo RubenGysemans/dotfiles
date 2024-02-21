@@ -1,0 +1,3 @@
+#Dotfiles
+cd dotfiles
+stow .
