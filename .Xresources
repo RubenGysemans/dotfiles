@@ -1,2 +1,6 @@
+## Work specific settings
 #Xft.dpi: 200
-Xcursor.size: 28
+#Xcursor.size: 52 
+
+## Home specific settings
+#Xcursor.size: 28
