@@ -1,1 +1,4 @@
 .config/1Password
+.config/i3/config.example
+.config/i3/screen_setup.sh.example
+.Xresources.example
