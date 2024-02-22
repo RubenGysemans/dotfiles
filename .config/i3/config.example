@@ -283,7 +283,7 @@ exec_always --no-startup-id picom
 
 exec firefox
 #exec keepassxc
-exec 1password
+#exec 1password
 exec $terminal 
 exec numlockx
 
