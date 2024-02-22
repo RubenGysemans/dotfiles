@@ -1,12 +1,14 @@
 # Dotfiles
 ```cd dotfiles```
 
-Uncomment correct paragraph in:
+Copy following files without .example:
 
-.Xresources  
-i3/screen-setup.sh  
-i3/config (workspace monitor assignment & exec scripts)  
+.Xresources.example  
+i3/screen-setup.sh.example  
+i3/config.example  
 
+Uncomment correct paragraphs in each file.  
+i3/config - uncomment correct monitor setup & startup applications  
 
 ```stow --adopt .```  
 ```git restore .```
