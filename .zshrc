@@ -109,3 +109,6 @@ export FZF_DEFAULT_OPTS=" \
 screenfetch
 
 eval "$(zoxide init --cmd cd zsh)"
+
+# custom bins
+export $PATH=/home/ruben/.local/bin
