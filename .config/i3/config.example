@@ -276,7 +276,7 @@ bindsym Mod4+l exec "i3lock -c 000000"
 ## HDMI-1 DP-2
 ## DP-3 DP-1
 
-exec always screen_setup.sh
+exec_always --no-startup-id /home/ruben/.config/i3/screen_setup.sh
 
 exec_always --no-startup-id feh --bg-scale /home/ruben/Pictures/wallpaper.png
 exec_always --no-startup-id picom
